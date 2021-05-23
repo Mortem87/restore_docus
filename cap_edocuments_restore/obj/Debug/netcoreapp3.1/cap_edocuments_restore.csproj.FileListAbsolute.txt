@@ -1,0 +1,4 @@
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocuments_restore\obj\Debug\netcoreapp3.1\cap_edocuments_restore.csprojAssemblyReference.cache
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocuments_restore\obj\Debug\netcoreapp3.1\cap_edocuments_restore.AssemblyInfoInputs.cache
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocuments_restore\obj\Debug\netcoreapp3.1\cap_edocuments_restore.AssemblyInfo.cs
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocuments_restore\obj\Debug\netcoreapp3.1\cap_edocuments_restore.csproj.CoreCompileInputs.cache

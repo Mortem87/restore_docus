@@ -1,0 +1,9 @@
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\obj\Debug\sln_cove_pdf.csprojAssemblyReference.cache
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\obj\Debug\sln_cove_pdf.csproj.CoreCompileInputs.cache
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\bin\Debug\sln_cove_pdf.exe.config
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\bin\Debug\sln_cove_pdf.exe
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\bin\Debug\sln_cove_pdf.pdb
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\bin\Debug\System.Drawing.Common.dll
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\obj\Debug\sln_cove_pdf.csproj.CopyComplete
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\obj\Debug\sln_cove_pdf.exe
+C:\Users\pjuarez\source\repos\cap_cove_pdf\sln_cove_pdf\obj\Debug\sln_cove_pdf.pdb

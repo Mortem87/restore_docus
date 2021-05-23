@@ -1,0 +1,7 @@
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocument\bin\Debug\cap_edocument.exe.config
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocument\bin\Debug\cap_edocument.exe
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocument\bin\Debug\cap_edocument.pdb
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocument\obj\Debug\cap_edocument.csprojAssemblyReference.cache
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocument\obj\Debug\cap_edocument.csproj.CoreCompileInputs.cache
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocument\obj\Debug\cap_edocument.exe
+C:\Users\pjuarez\source\repos\cap_cove_pdf\cap_edocument\obj\Debug\cap_edocument.pdb
